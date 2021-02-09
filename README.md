@@ -5,3 +5,5 @@
 This repo contains...
 1. Project proposal PDF and PNG
 2. GLA1 for Layouts
+
+![](cover.png)
