@@ -5,5 +5,7 @@
 This repo contains...
 1. Project proposal PDF and PNG
 2. GLA1 for Layouts
+3. Various Apps for practice
 
+![](images/showmyname.png)
 ![](cover.png)
