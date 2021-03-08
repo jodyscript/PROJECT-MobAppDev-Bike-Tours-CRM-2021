@@ -7,6 +7,7 @@ This repo contains...
 2. GLA1 for Layouts
 3. Show My Name App
 4. Make It Rain App
+5. TicTacToe Game App
  ---
 ![](cover.png)
 ![](images/makeitrainapp.png)
